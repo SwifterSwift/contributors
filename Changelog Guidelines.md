@@ -11,7 +11,7 @@ Here you can find the general guidelines for maintaining the Changelog (or addin
 - The release date of each versions is displayed.
 - Mention whether you follow Semantic Versioning.
 
-... with Moya-specific additions:
+... with SwifterSwift-specific additions:
 - Keep an unreleased section at the top.
 - Add PR number and a GitHub tag at the end of each entry.
 - Each breaking change entry should have **Breaking Change** label at the beginning of this entry.
