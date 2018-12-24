@@ -48,4 +48,4 @@ We use a [Code of Conduct](Code%20of%20Conduct.md), which is adapted from the [C
 
 #### What about if you have questions that cannot be put into a public issue?
 
-Both [Omar Albeik][@omaralbeik](https://github.com/omaralbeik) and [Steven Deutsch](https://github.com/SD10) have contactable emails on their GitHub profiles, and are happy to talk about any problems.
+Both [Omar Albeik](https://github.com/omaralbeik) and [Steven Deutsch](https://github.com/SD10) have contactable emails on their GitHub profiles, and are happy to talk about any problems.
